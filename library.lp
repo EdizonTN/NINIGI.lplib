@@ -1,0 +1,10 @@
+(librepcb_library a6be1ded-abd6-4c22-b8e7-62f5d61d6bdf
+ (name "Ninigi")
+ (description "This is an unofficial testing LibrePCB library. Ninigi electromechanical components")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-21T12:40:33Z)
+ (deprecated false)
+ (url "https://github.com/EdizonTN/NINIGI.lplib")
+)
